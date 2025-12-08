@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles.css">
+        <title>Current Photo/Video Trends</title>
+    </head>
+    <body>
+       <h1>Current Photo/Video Trends</h1> 
+       <h2>Photo with AI</h2>
+       <p>One current trend in photography is AI-assisted editing, which means using artificial intelligence to help improve photos. Photographers use these AI tools to adjust colours by making them brighter or softer, fix lighting by correcting how bright or dark a photo is, remove backgrounds by cutting out the main person or object, and add special effects such as glow, texture, or extra visual details. Some tools can even create new parts of a photo, such as changing the background to a different place or making the picture look like a different style, for example film, cartoon, or vintage. This trend is important because it saves a lot of time and helps people be more creative when making images. Even without expensive equipment, AI can make a photo look professional. For example, you can take a photo of yourself in action and use AI to replace the background with anything you want—like a city, a beach, or even a fantasy world—so you do not need to edit each part manually step by step.
+</p>
+       <h2>Video without AI</h2>
+       <p>A popular trend in videos that does not use AI is the authentic or real-life style. Viewers enjoy videos that feel natural, meaning they are not overly edited or made to look perfect. These videos often show real moments, behind-the-scenes clips—which are short videos showing what happens during the process rather than the final result—or user-created content, which means videos made by regular people instead of professional filmmakers. They are usually filmed with a phone, using natural light from the sun or room lighting, and simple settings like everyday rooms or outdoor areas. This trend is important because it builds trust with the audience and works very well on social media platforms such as TikTok or Instagram. It is also fast and low-cost to create. For example, a short video showing someone making a craft, including small mistakes and real reactions, can be more engaging than a polished, professional clip.
+</p>
+    </body>
+</html>
