@@ -7,7 +7,7 @@
         <h1>My website</h1>
         <p></p>
         <h1></h1>
-        <img src="photo/微信图片_20251202152758_13_310.jpg" style="width:300px; height:auto; "alt="">
+        <img src="微信图片_20251202152758_13_310.jpg" style="width:300px; height:auto; "alt="">
         <a href="current trend.html">This is a link of current trends.</a>
         <video controls>
             <source src="">
