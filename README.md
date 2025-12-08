@@ -8,8 +8,5 @@
         <p></p>
         <h1></h1>
         <a href="current trend.html">This is a link of current trends.</a>
-        <video controls>
-            <source src="">
-        </video>
     </body>
 </html>
