@@ -8,5 +8,6 @@
         <p></p>
         <h1></h1>
         <a href="current trend.html">This is a link of current trends.</a>
+        <a href="assignment1.html">This is a link for my first assignment.</a>
     </body>
 </html>
