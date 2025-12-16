@@ -11,14 +11,4 @@ body{
     font-family:"Times New Roman";
     background-color: rgb(255, 255, 255);
 }
-.image-row {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  margin: 40px 0;
-}
-
-.image-row img {
-  max-width: 40%;
-}
 
